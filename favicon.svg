@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Like Me icon">
+  <defs>
+    <linearGradient id="likeMeGradient" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#ff5b8f" />
+      <stop offset="100%" stop-color="#ff2f6d" />
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="32" fill="url(#likeMeGradient)" />
+  <path fill="#ffffff" d="M64 98.5 57.41 92.37C34.01 70.75 18.5 56.53 18.5 39C18.5 24.7 29.32 15 43.32 15c7.91 0 15.5 3.68 20.68 9.49C69.18 18.68 76.77 15 84.68 15 98.68 15 109.5 24.7 109.5 39c0 17.53-15.51 31.75-38.91 53.37L64 98.5Z"/>
+</svg>
